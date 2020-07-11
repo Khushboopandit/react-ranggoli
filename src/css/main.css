@@ -1,0 +1,8 @@
+body{
+    font-family: monospace;
+}
+
+
+#color-msg:hover > p{
+    visibility: hidden
+}
